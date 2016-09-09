@@ -1,3 +1,5 @@
+/*个人想到的一种比较好的方法用于中缀转后缀， 可以在map中自己定义优先级
+  改进： 或者可以改成面向对象模式是一个不错的选择.....*/
 #include <iostream>
 #include <string>
 #include <stack>
